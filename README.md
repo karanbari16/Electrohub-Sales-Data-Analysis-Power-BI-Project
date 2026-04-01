@@ -11,6 +11,8 @@ Insights into average discounts across categories
 Total number of orders overview
 Detailed order-level breakdown with filters (Product, Date, Customer ID, Promotion Category)
 City-wise sales distribution
+
+
 🛠️ Tools Used:
 Power BI
 Data Modeling
