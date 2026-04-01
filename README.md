@@ -14,6 +14,6 @@ City-wise sales distribution
 
 
 🛠️ Tools Used:
-Power BI
-Data Modeling
+Power BI,
+Data Modeling,
 DAX (Data Analysis Expressions)
